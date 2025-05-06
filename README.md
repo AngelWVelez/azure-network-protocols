@@ -44,7 +44,7 @@ Creating a Resource Group:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RPJPvDq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Observing ICMP Traffic:
@@ -60,7 +60,7 @@ Observing ICMP Traffic:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/odHGIEF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configuring a Firewall (Network Security Group):
