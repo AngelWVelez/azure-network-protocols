@@ -88,7 +88,7 @@ Observing SSH Traffic:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/i3SD6PH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Observe DHCP Traffic:
@@ -101,7 +101,7 @@ Observe DHCP Traffic:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4mKzGWe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Observe DNS Traffic:
@@ -114,7 +114,7 @@ Observe DNS Traffic:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hJybgRs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Observing RDP Traffic:
